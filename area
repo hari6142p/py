@@ -1,0 +1,4 @@
+#print the area of circle when radius is provided
+r=int(input('Input the radius of the circle'))
+print('the area of the circle with radius', r,"cm =", 3.14*r*r)
+
